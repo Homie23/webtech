@@ -1,0 +1,35 @@
+body{
+  font-family: sans-serif;
+}
+h1,h2{
+  font-weight: lighter;
+}
+.parag1{  
+  margin-left:auto;
+  margin-right:auto;
+  width: 78em;
+}
+.parag2{
+  margin-left: auto;
+  margin-right: auto;
+  width: 78em;
+}
+.button{
+  margin-bottom: 90px;
+  padding: 4px 8px;
+}
+.button2{
+  padding: 4px 8px;
+}
+.image{
+  width: 48%;
+  height: 48%;
+  margin: 15px 25px 15px 0;
+  float: left;
+}
+.image2{
+  width: 48%;
+  height: 48%;
+  margin: 15px 0px 15px 20px;
+  float: right;
+}
