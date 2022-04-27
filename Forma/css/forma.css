@@ -1,1 +1,55 @@
-body{  background-image: url(../images/background.jpg);  background-repeat: no-repeat, repeat-x;  background-size: auto 970px;    background-color: #f7f4ff; }p{  color: #ffffff;  font-family: "Comic Sans MS";  font-size: 50pt;  margin: 200px 0 0 45px;}.links a{  color: #a60000;  text-decoration: none;  padding: 10px;  font-size: 15pt;  position: relative;  top: 500px;  left: 50px;}a.link{  font-family: "Comic Sans MS";  color: #c4c4c4;  text-decoration: none;}button{  font-family: "Comic Sans MS";  text-transform: uppercase;  color: #f5f5f5;  padding: 15px 30px;  background-color: #ff1f1f;  border-radius: 30px;  margin: 50px 15px 0 0;  border: none;}label{  font-family: "Comic Sans MS";  color: #c4c4c4;  text-transform: uppercase;}input {  border: none;  margin: 13px 0 25px 0;  border-bottom: 2px solid #c4c4c4;  width: 20%;  background: none;  padding: 12px 10px;}.form{  position: relative;  left: 1150px;  bottom: 120px;}
+body{
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat, repeat-x;
+  background-size: auto 970px;  
+  background-color: #f7f4ff; 
+}
+p{
+  color: #ffffff;
+  font-family: "Comic Sans MS";
+  font-size: 50pt;
+  margin: 200px 0 0 45px;
+}
+.links a{
+  color: #a60000;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 15pt;
+  position: relative;
+  top: 500px;
+  left: 50px;
+}
+a.link{
+  font-family: "Comic Sans MS";
+  color: #c4c4c4;
+  text-decoration: none;
+}
+button{
+  font-family: "Comic Sans MS";
+  text-transform: uppercase;
+  color: #f5f5f5;
+  padding: 15px 30px;
+  background-color: #ff1f1f;
+  border-radius: 30px;
+  margin: 50px 15px 0 0;
+  border: none;
+}
+label{
+  font-family: "Comic Sans MS";
+  color: #c4c4c4;
+  text-transform: uppercase;
+}
+input {
+  border: none;
+  margin: 13px 0 25px 0;
+  border-bottom: 2px solid #c4c4c4;
+  width: 105%;
+  background: none;
+  padding: 12px 10px;
+}
+.form{
+  position: relative;
+  float: right;
+  margin-right: 400px;
+  bottom: 120px;
+}
