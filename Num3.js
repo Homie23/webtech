@@ -5,7 +5,7 @@ function getDiscount(){
         return getDiscount();
     } else {
         let price = 12.50;
-        let finalPrice = price - price * (discount / 100);
+        let finalPrice = (price - price * (discount / 100)).toFixed(2);
         return finalPrice;
     }
 }
